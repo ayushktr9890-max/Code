@@ -19,7 +19,7 @@ public:
         
     }
     void postorder(TreeNode* root, vector<int>&result){
-        if(!root) return;
+        if(root==NULL) return;
 
         postorder(root->left,result);
         postorder(root->right,result);
