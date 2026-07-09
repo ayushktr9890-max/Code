@@ -6,6 +6,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0209-minimum-size-subarray-sum](https://github.com/ayushktr9890-max/Code/tree/master/0209-minimum-size-subarray-sum) |
 | [0643-maximum-average-subarray-i](https://github.com/ayushktr9890-max/Code/tree/master/0643-maximum-average-subarray-i) |
+| [0704-binary-search](https://github.com/ayushktr9890-max/Code/tree/master/0704-binary-search) |
 | [1343-number-of-sub-arrays-of-size-k-and-average-greater-than-or-equal-to-threshold](https://github.com/ayushktr9890-max/Code/tree/master/1343-number-of-sub-arrays-of-size-k-and-average-greater-than-or-equal-to-threshold) |
 ## Sliding Window
 |  |
@@ -22,6 +23,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0209-minimum-size-subarray-sum](https://github.com/ayushktr9890-max/Code/tree/master/0209-minimum-size-subarray-sum) |
+| [0704-binary-search](https://github.com/ayushktr9890-max/Code/tree/master/0704-binary-search) |
 ## Prefix Sum
 |  |
 | ------- |
