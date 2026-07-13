@@ -8,6 +8,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0643-maximum-average-subarray-i](https://github.com/ayushktr9890-max/Code/tree/master/0643-maximum-average-subarray-i) |
 | [0704-binary-search](https://github.com/ayushktr9890-max/Code/tree/master/0704-binary-search) |
 | [1343-number-of-sub-arrays-of-size-k-and-average-greater-than-or-equal-to-threshold](https://github.com/ayushktr9890-max/Code/tree/master/1343-number-of-sub-arrays-of-size-k-and-average-greater-than-or-equal-to-threshold) |
+| [1572-matrix-diagonal-sum](https://github.com/ayushktr9890-max/Code/tree/master/1572-matrix-diagonal-sum) |
 ## Sliding Window
 |  |
 | ------- |
@@ -62,4 +63,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0020-valid-parentheses](https://github.com/ayushktr9890-max/Code/tree/master/0020-valid-parentheses) |
+## Matrix
+|  |
+| ------- |
+| [1572-matrix-diagonal-sum](https://github.com/ayushktr9890-max/Code/tree/master/1572-matrix-diagonal-sum) |
 <!---LeetCode Topics End-->
