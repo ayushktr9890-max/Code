@@ -18,6 +18,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## String
 |  |
 | ------- |
+| [0020-valid-parentheses](https://github.com/ayushktr9890-max/Code/tree/master/0020-valid-parentheses) |
 | [1456-maximum-number-of-vowels-in-a-substring-of-given-length](https://github.com/ayushktr9890-max/Code/tree/master/1456-maximum-number-of-vowels-in-a-substring-of-given-length) |
 ## Binary Search
 |  |
@@ -57,4 +58,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0002-add-two-numbers](https://github.com/ayushktr9890-max/Code/tree/master/0002-add-two-numbers) |
 | [0050-powx-n](https://github.com/ayushktr9890-max/Code/tree/master/0050-powx-n) |
+## Stack
+|  |
+| ------- |
+| [0020-valid-parentheses](https://github.com/ayushktr9890-max/Code/tree/master/0020-valid-parentheses) |
 <!---LeetCode Topics End-->
