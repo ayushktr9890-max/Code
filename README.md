@@ -67,4 +67,16 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [1572-matrix-diagonal-sum](https://github.com/ayushktr9890-max/Code/tree/master/1572-matrix-diagonal-sum) |
+## Design
+|  |
+| ------- |
+| [0933-number-of-recent-calls](https://github.com/ayushktr9890-max/Code/tree/master/0933-number-of-recent-calls) |
+## Queue
+|  |
+| ------- |
+| [0933-number-of-recent-calls](https://github.com/ayushktr9890-max/Code/tree/master/0933-number-of-recent-calls) |
+## Data Stream
+|  |
+| ------- |
+| [0933-number-of-recent-calls](https://github.com/ayushktr9890-max/Code/tree/master/0933-number-of-recent-calls) |
 <!---LeetCode Topics End-->
