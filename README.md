@@ -5,6 +5,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0209-minimum-size-subarray-sum](https://github.com/ayushktr9890-max/Code/tree/master/0209-minimum-size-subarray-sum) |
+| [0217-contains-duplicate](https://github.com/ayushktr9890-max/Code/tree/master/0217-contains-duplicate) |
 | [0643-maximum-average-subarray-i](https://github.com/ayushktr9890-max/Code/tree/master/0643-maximum-average-subarray-i) |
 | [0704-binary-search](https://github.com/ayushktr9890-max/Code/tree/master/0704-binary-search) |
 | [1343-number-of-sub-arrays-of-size-k-and-average-greater-than-or-equal-to-threshold](https://github.com/ayushktr9890-max/Code/tree/master/1343-number-of-sub-arrays-of-size-k-and-average-greater-than-or-equal-to-threshold) |
@@ -54,6 +55,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0141-linked-list-cycle](https://github.com/ayushktr9890-max/Code/tree/master/0141-linked-list-cycle) |
+| [0217-contains-duplicate](https://github.com/ayushktr9890-max/Code/tree/master/0217-contains-duplicate) |
 ## Math
 |  |
 | ------- |
@@ -118,4 +120,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0700-search-in-a-binary-search-tree](https://github.com/ayushktr9890-max/Code/tree/master/0700-search-in-a-binary-search-tree) |
+## Sorting
+|  |
+| ------- |
+| [0217-contains-duplicate](https://github.com/ayushktr9890-max/Code/tree/master/0217-contains-duplicate) |
 <!---LeetCode Topics End-->
