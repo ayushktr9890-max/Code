@@ -4,6 +4,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Array
 |  |
 | ------- |
+| [0121-best-time-to-buy-and-sell-stock](https://github.com/ayushktr9890-max/Code/tree/master/0121-best-time-to-buy-and-sell-stock) |
 | [0209-minimum-size-subarray-sum](https://github.com/ayushktr9890-max/Code/tree/master/0209-minimum-size-subarray-sum) |
 | [0217-contains-duplicate](https://github.com/ayushktr9890-max/Code/tree/master/0217-contains-duplicate) |
 | [0643-maximum-average-subarray-i](https://github.com/ayushktr9890-max/Code/tree/master/0643-maximum-average-subarray-i) |
@@ -127,4 +128,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0217-contains-duplicate](https://github.com/ayushktr9890-max/Code/tree/master/0217-contains-duplicate) |
 | [0242-valid-anagram](https://github.com/ayushktr9890-max/Code/tree/master/0242-valid-anagram) |
+## Dynamic Programming
+|  |
+| ------- |
+| [0121-best-time-to-buy-and-sell-stock](https://github.com/ayushktr9890-max/Code/tree/master/0121-best-time-to-buy-and-sell-stock) |
 <!---LeetCode Topics End-->
