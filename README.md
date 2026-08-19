@@ -5,6 +5,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0121-best-time-to-buy-and-sell-stock](https://github.com/ayushktr9890-max/Code/tree/master/0121-best-time-to-buy-and-sell-stock) |
+| [0169-majority-element](https://github.com/ayushktr9890-max/Code/tree/master/0169-majority-element) |
 | [0209-minimum-size-subarray-sum](https://github.com/ayushktr9890-max/Code/tree/master/0209-minimum-size-subarray-sum) |
 | [0217-contains-duplicate](https://github.com/ayushktr9890-max/Code/tree/master/0217-contains-duplicate) |
 | [0643-maximum-average-subarray-i](https://github.com/ayushktr9890-max/Code/tree/master/0643-maximum-average-subarray-i) |
@@ -57,6 +58,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0141-linked-list-cycle](https://github.com/ayushktr9890-max/Code/tree/master/0141-linked-list-cycle) |
+| [0169-majority-element](https://github.com/ayushktr9890-max/Code/tree/master/0169-majority-element) |
 | [0217-contains-duplicate](https://github.com/ayushktr9890-max/Code/tree/master/0217-contains-duplicate) |
 | [0242-valid-anagram](https://github.com/ayushktr9890-max/Code/tree/master/0242-valid-anagram) |
 ## Math
@@ -126,10 +128,23 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Sorting
 |  |
 | ------- |
+| [0169-majority-element](https://github.com/ayushktr9890-max/Code/tree/master/0169-majority-element) |
 | [0217-contains-duplicate](https://github.com/ayushktr9890-max/Code/tree/master/0217-contains-duplicate) |
 | [0242-valid-anagram](https://github.com/ayushktr9890-max/Code/tree/master/0242-valid-anagram) |
 ## Dynamic Programming
 |  |
 | ------- |
 | [0121-best-time-to-buy-and-sell-stock](https://github.com/ayushktr9890-max/Code/tree/master/0121-best-time-to-buy-and-sell-stock) |
+## Divide and Conquer
+|  |
+| ------- |
+| [0169-majority-element](https://github.com/ayushktr9890-max/Code/tree/master/0169-majority-element) |
+## Counting
+|  |
+| ------- |
+| [0169-majority-element](https://github.com/ayushktr9890-max/Code/tree/master/0169-majority-element) |
+## Boyer–Moore Majority Vote Algorithm
+|  |
+| ------- |
+| [0169-majority-element](https://github.com/ayushktr9890-max/Code/tree/master/0169-majority-element) |
 <!---LeetCode Topics End-->
