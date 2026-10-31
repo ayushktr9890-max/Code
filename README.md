@@ -4,6 +4,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Array
 |  |
 | ------- |
+| [0004-median-of-two-sorted-arrays](https://github.com/ayushktr9890-max/Code/tree/master/0004-median-of-two-sorted-arrays) |
 | [0121-best-time-to-buy-and-sell-stock](https://github.com/ayushktr9890-max/Code/tree/master/0121-best-time-to-buy-and-sell-stock) |
 | [0169-majority-element](https://github.com/ayushktr9890-max/Code/tree/master/0169-majority-element) |
 | [0209-minimum-size-subarray-sum](https://github.com/ayushktr9890-max/Code/tree/master/0209-minimum-size-subarray-sum) |
@@ -32,6 +33,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Binary Search
 |  |
 | ------- |
+| [0004-median-of-two-sorted-arrays](https://github.com/ayushktr9890-max/Code/tree/master/0004-median-of-two-sorted-arrays) |
 | [0209-minimum-size-subarray-sum](https://github.com/ayushktr9890-max/Code/tree/master/0209-minimum-size-subarray-sum) |
 | [0704-binary-search](https://github.com/ayushktr9890-max/Code/tree/master/0704-binary-search) |
 ## Prefix Sum
@@ -144,6 +146,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Divide and Conquer
 |  |
 | ------- |
+| [0004-median-of-two-sorted-arrays](https://github.com/ayushktr9890-max/Code/tree/master/0004-median-of-two-sorted-arrays) |
 | [0169-majority-element](https://github.com/ayushktr9890-max/Code/tree/master/0169-majority-element) |
 ## Counting
 |  |
